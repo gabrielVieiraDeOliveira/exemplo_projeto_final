@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Via Cep</string>
+    <string name="label_button">Buscar</string>
+    <string name="cep">Digite O CEP</string>
+</resources>
